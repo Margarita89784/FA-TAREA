@@ -1,0 +1,8 @@
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\bin\Debug\FA-TAREA.exe.config
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\bin\Debug\FA-TAREA.exe
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\bin\Debug\FA-TAREA.pdb
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\obj\Debug\FA-TAREA.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\obj\Debug\FA-TAREA.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\obj\Debug\FA-TAREA.exe
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\obj\Debug\FA-TAREA.pdb
+C:\Users\USUARIO\OneDrive\Desktop\FA -TAREA\FA-TAREA\obj\Debug\FA-TAREA.exe.config

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A19EBA-E185-424D-BA2B-802843EC3336}|..\\FA-TAREA Python\\FA-TAREA Python.pyproj|C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA Python\\FA_TAREA_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA383E0-CC45-4D56-BCBD-17602957A43C}|FA-TAREA.csproj|c:\\users\\usuario\\onedrive\\desktop\\fa -tarea\\fa-tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA383E0-CC45-4D56-BCBD-17602957A43C}|FA-TAREA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FA_TAREA_Python.py",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA Python\\FA_TAREA_Python.py",
+              "RelativeDocumentMoniker": "..\\FA-TAREA Python\\FA_TAREA_Python.py",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA Python\\FA_TAREA_Python.py",
+              "RelativeToolTip": "..\\FA-TAREA Python\\FA_TAREA_Python.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-21T03:20:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\FA -TAREA\\FA-TAREA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T03:18:47.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
